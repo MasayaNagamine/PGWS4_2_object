@@ -6,8 +6,8 @@
 ![シェーダグラフ](node_graph.png)
 
 # 自分なりに変更した点
--
--
+-リムライトの色をsample Gradientに変更した
+-sample GradientのTime(1)をTimeのCosine Time(1)を使って常に色が変化するようなグラデーションに変更した
 -
 
 # 進め方
